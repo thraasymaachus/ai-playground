@@ -1,0 +1,1 @@
+Write me python code that generates a plot of y^2 = x^3 - 2x + 1 over the integers modulo 89
