@@ -1,0 +1,1 @@
+Write me python code that reads in my laptop's live video feed, and outputs the same video live, but with any human faces blurred out.
