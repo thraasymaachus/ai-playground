@@ -1,0 +1,1 @@
+Assuming the above functions have been implemented, write further code to generate plots of 2-adic distance over the integers and the rational numbers, respectively 
